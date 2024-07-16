@@ -1,3 +1,4 @@
+import BlogDetails from './Blogdetails';
 import BlogList from './blogList';
 import useFetch from './Usefetch';
 
